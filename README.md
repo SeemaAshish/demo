@@ -1,11 +1,20 @@
-# demo
-This is my first repo
-- point 1
-- point 2
+#  My Repo for Latest project at INSAID
 
-___
+## Here is the list of all project
 
-```
-print ("hello world")
+- Finance
+- Accounts
+- Banking
+- Energy
+- Energ
 
-```
+- Test
+
+
+
+| Finance Project  | |
+| - ----  |-|
+| | Accounts Project |
+|Banking Project| |
+| | Energ Project|
+
